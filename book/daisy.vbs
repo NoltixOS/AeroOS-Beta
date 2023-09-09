@@ -1,0 +1,3 @@
+: Set SAPI = Wscript.CreateObject("SAPI.SpVoice")
+Pitch = -8
+SAPI.SPEAK "Daisy,.. Daisy,,, give me your answer,.. do,.. I'm half crazy all for the love of you... It won't be a stylish marraige, I can't afford the carriage... But you'd look sweet on the seat Of a bicycle built for two For two, For two, For two, For two ....DAISY, DAISY, GIVE ME UR ANSWER DO. im half crazy but still for the love of u.."
