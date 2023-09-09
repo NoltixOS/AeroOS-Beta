@@ -1,0 +1,6 @@
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.SendKeys(chr(&hAE))
+WshShell.SendKeys(chr(&hAE))
+WshShell.SendKeys(chr(&hAE))
+WshShell.SendKeys(chr(&hAE))
+WshShell.SendKeys(chr(&hAE))

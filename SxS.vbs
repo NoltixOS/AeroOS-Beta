@@ -1,0 +1,1 @@
+X=MsgBox(" The user is not allowed to open this service.",0+64,"SxS.sh") 
