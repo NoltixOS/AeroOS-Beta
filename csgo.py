@@ -1,0 +1,1 @@
+    from ursina import *    app = Ursina()    Sky()    ground= Entity(      model='plane'      textur='ground',      collide='mesh',      scale=(100,1,100)    )    player = FirstPersonController()     position=(0,2,-5)

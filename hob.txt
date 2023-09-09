@@ -1,0 +1,3 @@
+@echo off
+cls
+:: HUMAN OR BOT GHEIM

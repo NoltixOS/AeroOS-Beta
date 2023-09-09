@@ -1,0 +1,2 @@
+python Mc.py
+exit
