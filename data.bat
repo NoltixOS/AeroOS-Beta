@@ -163,7 +163,7 @@ if exist dos.dll goto IU
 cls
 color 0
 insertbmp /p:"b.bmp" /x:0 /y:0 /z:100
-echo €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€= Boot Manager =€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
+echo √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ= Boot Manager =√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 echo                     Choose an operating system or choose some options.
 echo.
 cmdMenuSel f870 "                                                                                               XSOFT OS" "                                                                                               DOS" "                                                                                               BIOS" "                                                                                               TROUBLESHOOTING"
@@ -351,7 +351,7 @@ if %m% == N goto netU
 goto desktop
 
 :wsfc
-start SM.bat
+start https://pisoitom5.wixsite.com/wavessocial
 goto desktop
 
 :aha
@@ -449,7 +449,7 @@ goto desktop
 color a
 cls
 insertbmp /p:"b.bmp" /x:0 /y:0 /z:100
-echo €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€= Matrixx! =€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
+echo √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ= Matrixx! =√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 echo.
 echo The matrix effect will make the TAB dissapear. DON'T PANIC FOR ANY THING!
 pause
@@ -552,13 +552,13 @@ pause>nul
 cls
 insertbmp /p:"b.bmp" /x:0 /y:0 /z:100
 echo.
-echo €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€=  Notex =€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
+echo √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ=  Notex =√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 echo.
 echo.
 echo.
-echo €€€€€€€€€€€€€€€€€€€€€€€€
-echo €  PRESS ENTER TO SAVE €
-ECHO €€€€€€€€€€€€€€€€€€€€€€€€
+echo √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
+echo √õ  PRESS ENTER TO SAVE √õ
+ECHO √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 set /p word=
 cls
 echo d >> temp.tmp
@@ -603,11 +603,11 @@ cls
 insertbmp /p:"b.bmp" /x:0 /y:0 /z:100
 cls
 echo.
-echo €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€= FINDER =€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
+echo √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ= FINDER =√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 echo.
 echo %namone%
 echo.
-echo €€€€€€€€€€€€
+echo √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 echo.
 echo %word%
 pause>nul
@@ -644,7 +644,7 @@ cls
 insertbmp /p:"b.bmp" /x:0 /y:0 /z:100
 cls
 echo.
-echo €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€= sh.dll =€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
+echo √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ= sh.dll =√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 echo.
 cmdMenuSel f870 "ShutDown" "Restart" "Logoff" "Exit"
 if %ERRORLEVEL% == 1 goto ket
@@ -702,7 +702,7 @@ ECHO.
 echo Xsoft DOS-UI for computing.
 echo Type exit to shutdown;.
 echo.
-set /p comm=¿ƒ˛ 
+set /p comm=√Ä√Ñ√æ 
 echo.
 if "%comm%"=="exit" exit
 if "%comm%"=="getnet" goto getip
@@ -747,12 +747,12 @@ cls
 color 5
 echo.
 echo.
-echo ˛˛˛˛˛˛˛˛˛˛˛˛˛˛
-echo ˛
-echo ˛
-echo ˛    €€˛˛˛˛˛˛˛  
-echo ˛            ˛
-echo ˛˛˛˛˛˛˛˛˛˛˛˛˛˛
+echo √æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ
+echo √æ
+echo √æ
+echo √æ    √õ√õ√æ√æ√æ√æ√æ√æ√æ  
+echo √æ            √æ
+echo √æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ
 echo.
 echo   NINTENDO
 echo.
@@ -762,16 +762,16 @@ timeout 2 > nul
 cls
 echo.
 echo.
-echo   €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
-echo   €                                €
-echo   €                                €
-echo   €           ˛EXIT                €
-echo   €           GAME DISCS.          €    ˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛
-echo   €                                €    ˛ Y)SELECT O)OK˛
-echo   €                                €    ˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛
-echo   €                                €
-echo   €                                €
-echo   €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
+echo   √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
+echo   √õ                                √õ
+echo   √õ                                √õ
+echo   √õ           √æEXIT                √õ
+echo   √õ           GAME DISCS.          √õ    √æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ
+echo   √õ                                √õ    √æ Y)SELECT O)OK√æ
+echo   √õ                                √õ    √æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ
+echo   √õ                                √õ
+echo   √õ                                √õ
+echo   √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 CHOICE /C YO > nul
 if %errorlevel% equ Y goto y
 if %errorlevel% equ O goto emy
@@ -780,16 +780,16 @@ if %errorlevel% equ O goto emy
 cls
 echo.
 echo.
-echo   €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
-echo   €                                €
-echo   €                                €
-echo   €           EXIT                 €
-echo   €           ˛GAME DISCS.         €    ˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛
-echo   €                                €    ˛ Y)SELECT O)OK˛
-echo   €                                €    ˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛
-echo   €                                €
-echo   €                                €
-echo   €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
+echo   √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
+echo   √õ                                √õ
+echo   √õ                                √õ
+echo   √õ           EXIT                 √õ
+echo   √õ           √æGAME DISCS.         √õ    √æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ
+echo   √õ                                √õ    √æ Y)SELECT O)OK√æ
+echo   √õ                                √õ    √æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ√æ
+echo   √õ                                √õ
+echo   √õ                                √õ
+echo   √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 CHOICE /C YO > nul
 if %errorlevel% equ Y goto arrest
 if %errorlevel% equ O goto okay
@@ -807,7 +807,7 @@ goto arrest
 
 :consolerror
 echo '%comm%' is not an external command, batch script or device.
-set /p comm=¿ƒ˛ 
+set /p comm=√Ä√Ñ√æ 
 echo.
 if "%comm%"=="exit" goto :eof
 if "%comm%"=="getnet" goto getip
@@ -842,7 +842,7 @@ echo wslocal = powershell procces.
 echo diros = hiddden directoryes.
 echo help or HELP or help /? or /? = goes you to this menu.
 echo.
-set /p comm=¿ƒ˛ 
+set /p comm=√Ä√Ñ√æ 
 echo.
 if "%comm%"=="exit" goto :eof
 if "%comm%"=="getnet" goto getip
@@ -867,7 +867,7 @@ if not "%comm%"=="diros" goto consolerror
 
 :getip
 getmac
-set /p comm=¿ƒ˛ 
+set /p comm=√Ä√Ñ√æ 
 echo.
 if "%comm%"=="exit" goto :eof
 if "%comm%"=="getnet" goto getip
@@ -894,7 +894,7 @@ if not "%comm%"=="diros" goto consolerror
 echo     VOLUME (DIRECTORYES FROM W DRIVE)
 tree
 echo     DIRECTORY ON SYSTEM
-set /p comm=¿ƒ˛ 
+set /p comm=√Ä√Ñ√æ 
 echo.
 if "%comm%"=="exit" goto :eof
 if "%comm%"=="getnet" goto getip
@@ -919,7 +919,7 @@ if not "%comm%"=="diros" goto consolerror
 
 :bruh
 echo This is not MS-DOS..
-set /p comm=¿ƒ˛ 
+set /p comm=√Ä√Ñ√æ 
 echo.
 if "%comm%"=="exit" goto :eof
 if "%comm%"=="getnet" goto getip
@@ -958,20 +958,20 @@ cls
 insertbmp /p:"b.bmp" /x:0 /y:0 /z:100
 echo.
 echo  Internals on bootsector (1
-echo  €€€€€€€€€€€€€€€€€€€€€€€€€€
-echo  €€1 0 1 0 1 0 1 0 1 0 1 €€
-ECHO  €€X 2 J 6 1 0 0 1 S H H €€
-ECHO  €€€€€€€€€€€€€€€€€€€€€€€€€€
+echo  √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
+echo  √õ√õ1 0 1 0 1 0 1 0 1 0 1 √õ√õ
+ECHO  √õ√õX 2 J 6 1 0 0 1 S H H √õ√õ
+ECHO  √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 echo.
 echo  Internals on kernel (1
-echo  €€€€€€€€€€€€€€€€€€€€€€€€€€
-echo  €€I N T S K N A L S H H €€
-ECHO  €€X O X L 1 X R E G X 1 €€
-echo  €€I N T S K N X L S H H €€
-ECHO  €€X O X L 1 X R E G X 1 €€
-echo  €€I N T S K N A L S H H €€
-ECHO  €€X O X L 1 X R E G X 1 €€
-ECHO  €€€€€€€€€€€€€€€€€€€€€€€€€€
+echo  √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
+echo  √õ√õI N T S K N A L S H H √õ√õ
+ECHO  √õ√õX O X L 1 X R E G X 1 √õ√õ
+echo  √õ√õI N T S K N X L S H H √õ√õ
+ECHO  √õ√õX O X L 1 X R E G X 1 √õ√õ
+echo  √õ√õI N T S K N A L S H H √õ√õ
+ECHO  √õ√õX O X L 1 X R E G X 1 √õ√õ
+ECHO  √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 pause>nul
 goto desktop
 
@@ -2087,13 +2087,13 @@ color 1b
 cls
 echo.
 echo.
-echo             ≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤
-echo             ≤≤ _____ BIOS _______  ≤≤€€                         Operating system made in batch file and python thanks to notepad++ for coding the python things.
-ECHO             ≤≤ [ 1/Disk         ]  ≤≤€€
-echo             ≤≤ [ CORE: INTEL    ]  ≤≤€€
-echo             ≤≤ [ 2/exit         ]  ≤≤€€
-echo             ≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤≤€€
-ECHO               €€€€€€€€€€€€€€€€€€€€€€€€€
+echo             ¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤
+echo             ¬≤¬≤ _____ BIOS _______  ¬≤¬≤√õ√õ                         Operating system made in batch file and python thanks to notepad++ for coding the python things.
+ECHO             ¬≤¬≤ [ 1/Disk         ]  ¬≤¬≤√õ√õ
+echo             ¬≤¬≤ [ CORE: INTEL    ]  ¬≤¬≤√õ√õ
+echo             ¬≤¬≤ [ 2/exit         ]  ¬≤¬≤√õ√õ
+echo             ¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤¬≤√õ√õ
+ECHO               √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 choice /c 12 > nul
 if %errorlevel% == 1 echo Using XDRIVE.sys with 91% free! & pause & goto BIOS
 if %errorlevel% == 2 goto pegg
@@ -2105,7 +2105,7 @@ goto log
 :trb
 insertbmp /p:"b.bmp" /x:0 /y:0 /z:100
 cls
-echo €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€= Boot Manager =€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
+echo √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ= Boot Manager =√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ
 echo.
 echo     Choose advanced options for: XSOFT OS
 echo.  
