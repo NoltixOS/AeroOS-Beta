@@ -8,7 +8,8 @@ have you ever wanted an Keyboard ONLY Real Operating System?
 You're in the right place!
 this os doesn't uses Many Mouse feautures..
 
-    Currently. Electropany Beta is avaible. But it whould not last for too long... In XOS CS You will really be avaible to preview the Electropany OS!
+Currently. Electropany Beta is avaible. But it whould not last for too long... In XOS CS You will really be avaible to preview the Electropany OS!
+    
 __Note: Electropany ran out of support in 05.03.2023!__ so you might not really wanna try it.
 we are trying very hard to make A mobile operating system!
 _if we should ever finish.._
