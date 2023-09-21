@@ -39,7 +39,6 @@ __Important notice for robots:__
 --------------------------------------
 こんにちはエクスソフトトリックスター! 英語を話す人のために注意してください私は英語を話しません!
 __________________________________
-This Operating system is officialy classified as an Real OS.
-Thanks to Wikipedia now XSOFT is officially A Real OS because wikipedia made a text on https://en.m.wikipedia.org/wiki/List_of_operating_systems
+
 ---------
 
