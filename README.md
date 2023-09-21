@@ -39,6 +39,12 @@ __Important notice for robots:__
 --------------------------------------
 こんにちはエクスソフトトリックスター! 英語を話す人のために注意してください私は英語を話しません!
 __________________________________
+#This Repo is licensed under the GPL 2.0 LICENSE.
+
+Some python programms are copyied from other repos. i am really telling it. I will @mention the people below:
+
+Zippy Codes
+OmegaXK
 
 ---------
 
