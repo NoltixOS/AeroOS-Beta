@@ -8,7 +8,7 @@ have you ever wanted an Keyboard ONLY Real Operating System?
 You're in the right place!
 this os doesn't uses Many Mouse feautures..
 
-__to run just open Data.bat__
+__to run OS just open Data.bat__
 
 Currently. Electropany Beta is avaible. But it whould not last for too long... In XOS CS You will really be avaible to preview the Electropany OS!
     
