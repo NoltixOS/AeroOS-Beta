@@ -10,7 +10,7 @@ this os doesn't uses Many Mouse feautures..
 
 _____________
 _For Important thing..
-Xsoft is the Operating System! Ysoft is the boot manager ar Zsoft is the kernel._
+Xsoft is the Operating System! Ysoft is the boot manager as Zsoft is the kernel._
 ------------
 
 __to run OS just open Data.bat__
