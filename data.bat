@@ -351,7 +351,7 @@ if %m% == N goto netU
 goto desktop
 
 :wsfc
-start https://pisoitom5.wixsite.com/wavessocial
+start https://waves-social.groupanic.net/
 goto desktop
 
 :aha
