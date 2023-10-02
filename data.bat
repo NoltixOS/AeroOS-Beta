@@ -351,7 +351,7 @@ if %m% == N goto netU
 goto desktop
 
 :wsfc
-start https://waves-social.groupanic.net/
+start https://weevs.yooco.org/invite/jHmrwJhtZJaWkZU%3D
 goto desktop
 
 :aha
