@@ -351,7 +351,7 @@ if %m% == N goto netU
 goto desktop
 
 :wsfc
-start https://weevs.yooco.org/invite/jHmrwJhtZJaWkZU%3D
+start https://weevs.yooco.org/myaccount.html
 goto desktop
 
 :aha
