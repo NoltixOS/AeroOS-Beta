@@ -1,7 +1,11 @@
 #  Xsoft-CODENAME-SHADOW
 
 This is Xsoft OS.
-All new OS.
+
+
+
+
+
 Versions:
 ----------
 XOS C.S.S: 1.0 ---Opened           
