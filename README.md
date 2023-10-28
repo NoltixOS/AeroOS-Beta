@@ -24,10 +24,6 @@ The first Modern Keyboard-only Operating system.
 
 
 __to run OS just open data.cmd__
-Feautures:
-__XOS CS 1.0: Fixed bugs, all the things an os really needs.__
-__XOS CS 1.1: TheImp62. a among is like game, New BootScreen!__
-__XOS CS 1.2: Not currently in creation.__
 ------------------
 
 --------------------------------------
