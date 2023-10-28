@@ -8,6 +8,8 @@
 
 This is Xsoft OS 1.0: The start.
 ------
+to get the Year's Xsoft activation key, go to our profile, our website, (thexsofttech) then find the instructions!
+-------
 
 To fully acces XSOFT OS, after you install the OS, rename the folder to: XSOFT (nu sterge aici nu e nimic pierdut)
 
