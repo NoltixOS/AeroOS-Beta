@@ -23,7 +23,7 @@ XOS C.S.S: 1.1 ---
 The first Modern Keyboard-only Operating system.
 
 
-__to run OS just open data.cmd__
+__to run OS just open data.bat__
 ------------------
 
 --------------------------------------
