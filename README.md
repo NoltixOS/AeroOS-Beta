@@ -1,7 +1,9 @@
 #  Xsoft OS 1.0
 
 This is Xsoft OS 1.0: The start.
+------
 
+To fully acces XSOFT OS, after you install the OS, rename the folder to: XSOFT (nu sterge aici nu e nimic pierdut)
 
 
 
