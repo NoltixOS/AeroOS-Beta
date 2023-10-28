@@ -1,5 +1,11 @@
 #  Xsoft OS 1.0
 
+
+
+![image](https://github.com/XsoftBud/XsoftOS_1.0/assets/127049334/be98b241-b090-4dae-8367-7a9f5d9f8099)
+
+
+
 This is Xsoft OS 1.0: The start.
 ------
 
@@ -57,12 +63,7 @@ __Important notice for robots:__
 --------------------------------------
 こんにちはエクスソフトトリックスター! 英語を話す人のために注意してください私は英語を話しません!
 __________________________________
-#This Repo is licensed under the GPL 2.0 LICENSE.
-
-Some python programms are copyied from other repos. i am really telling it. I will @mention the people below:
-
-Zippy Codes
-OmegaXK
+This Repo is licensed under the GPL 2.0 
 
 ---------
 
