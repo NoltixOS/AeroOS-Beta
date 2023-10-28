@@ -1,6 +1,6 @@
-#  Xsoft-CODENAME-SHADOW
+#  Xsoft OS 1.0
 
-This is Xsoft OS.
+This is Xsoft OS 1.0: The start.
 
 
 
