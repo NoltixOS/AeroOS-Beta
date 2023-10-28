@@ -2,7 +2,7 @@
 
 
 
-![image](https://github.com/XsoftBud/XsoftOS_1.0/assets/127049334/be98b241-b090-4dae-8367-7a9f5d9f8099)
+Batch Version
 
 
 
