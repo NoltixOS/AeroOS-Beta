@@ -13,8 +13,10 @@ to get the Year's Xsoft activation key, go to our profile, our first link (the w
 
 -------
 
+NOTE
 To fully acces XSOFT OS, after you install the OS, rename the folder to: XSOFT (nu sterge aici nu e nimic pierdut)
-
+renaming to this name will make the Xsoft's Drivers sync, and more. depending on wich Batch version you are using.
+----
 
 
 
@@ -28,9 +30,52 @@ The first Modern Keyboard-only Operating system.
 
 
 __to run OS just open data.bat__
-------------------
 
-This Repo is licensed under the GPL 2.0 
+Feautures:
+---------
+• Cupcakes, 
 
+
+• Programs, 
+
+
+• Instant messenger, 
+
+
+• Social Community, 
+
+
+• Personal Voice assistant, 
+
+
+• Games, 
+
+
+• App Store, 
+
+
+• Tools,  
+
+
+• Programming language,
+
+
+• microkernel, 
+
+
+
+• drivers, 
+
+
+• file explorer, 
+
+
+• Aero theme, 
+
+
+• Account, 
+
+
+• working sessions.
 ---------
 
