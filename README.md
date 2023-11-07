@@ -1,6 +1,14 @@
 ##  Xsoft OS 1.0
 
-This is the first version on the Xsoft Operating System series. hope you like it! It uses an aero theme as default. so it might look like an Windows 7 / vista!
+This is the first version on the Xsoft Operating System series.
+
+hope you like it!
+
+It uses an aero theme as default.
+
+so it might look like Windows 7.
+
+Xsoft OS is also based on Windows 7!
 
 ![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![Version](https://img.shields.io/badge/Version-1.09b-9cf?style=for-the-badge)
