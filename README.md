@@ -16,6 +16,7 @@ Xsoft OS is also based on Windows 7!
 
 ## Activation Key
 
+
 to get the Year's Xsoft activation key, go to our profile, our first link (the website) then click the three lines and search for Xsoft Activation Key, then you need to follow the instructions
 
 
