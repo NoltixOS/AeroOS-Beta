@@ -9,6 +9,7 @@ After you download, rename the folder to _Xsoft (nu sterge aici nu e nimic pierd
 
 
 ## Index
+- [Notex](#notex)
     - [Waves Social](#waves-social)
     - [Games](#games)
     - [Check the system info](#check-system-info)
@@ -19,15 +20,17 @@ After you download, rename the folder to _Xsoft (nu sterge aici nu e nimic pierd
     - [Power Options](#run-the-power-options)
     - [Themes](#themes)
     - [Xsoft Activation Keys](#product-keys)
+### Notex
+notex is an notepad app allowing you to create text files on Xsoft OS.
 
 ### Waves Social
 Waves Social is an Social Media website that is pre-installed in Xsoft OS. you can also visit at: https://weevs.yooco.org
 ### Games
 The Xsoft "Games" are some entertainment mini-games. do not expect big feautures in these games.
-```
+
 ### All Xsoft Versions
 if you want to check out more Xsoft OS versions, take a list of the avaible ones:
-```
+
 Xsoft OS 1.0
 Xsoft OS 1.1 (currently unavailable)
 
