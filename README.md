@@ -14,7 +14,7 @@ After you download, rename the folder to _Xsoft (nu sterge aici nu e nimic pierd
     - [Games](#games)
     - [Check the system info](#check-system-info)
     - [More Xsoft OS Versions](#all-xsoft-versions)
-    - [Termx (#xsoftos-terminal)
+    - [Termx](#xsoftos-terminal)
     - [Help](#xsoftos-help)
     - [Xalb AI](#ai-chatbot)
     - [Power Options](#run-the-power-options)
