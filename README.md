@@ -9,7 +9,6 @@ After you download, rename the folder to _Xsoft (nu sterge aici nu e nimic pierd
 
 
 ## Index
-- [Basic guide](#basic-guide)
     - [Waves Social](#waves-social)
     - [Games](#games)
     - [Check the system info](#check-system-info)
