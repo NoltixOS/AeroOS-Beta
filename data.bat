@@ -552,19 +552,28 @@ pause>nul
 cls
 insertbmp /p:"b.bmp" /x:0 /y:0 /z:100
 echo.
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ=  Notex =ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo.
+echo       After you writed the note, press enter to continue
 echo.
 echo.
 echo.
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  PRESS ENTER TO SAVE Û
-ECHO ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-set /p word=
+set /p "word="
+echo.
+(
+echo %word%
+) >cuppy.txt
+goto sclsoopoo
 cls
+:sclsoopoo
 echo d >> temp.tmp
 cls
-insertbmp /p:"svr.bmp" /x:0 /y:0 /z:100
-set /p namone=FileName : 
+echo.
+echo.
+echo.
+echo.
+echo  Enter your FileName
+echo.
+set /p namone=FileName :
 cls
 goto desktop
 
