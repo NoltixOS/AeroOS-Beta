@@ -5,7 +5,7 @@ Xsoft OS 1.0 is the first official OS by Xsoft.
 ![Version](https://img.shields.io/badge/Version-1.09b-9cf?style=for-the-badge)
 
 ## Make sure to:
-After you download, rename the folder to _Xsoft (nu sterge aici nu e nimic pierdut.)_, renaming to this name will automatically install all the drivers :)
+After you download, rename the folder to _Xsoft (nu sterge aici nu e nimic pierdut.)_, renaming to this name will automatically install all the important drivers :)
 
 
 ## Index
