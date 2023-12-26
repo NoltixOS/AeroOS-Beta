@@ -1067,25 +1067,12 @@ goto End
 
 :nose
 cls
-echo key.ID >> osk.ID
-insertbmp /p:"bm.bmp" /x:0 /y:0 /z:100
-set /p kk=
-if %kk% == X goto z
-if %kk% == A goto enter
+echo It's alright! but please keep in mind that your copy of Xsoft OS may sometimes lag.
+echo.
+echo Press enter to continue the setup. Have a great day!
+enter>nul
+goto log
 
-:z
-cls
-insertbmp /p:"Bp.bmp" /x:0 /y:0 /z:100
-set /p kkt=
-if %kkt% == 1 goto ze
-if %kkt% == 2 goto enter
-
-:ze
-cls
-insertbmp /p:"b.bmp" /x:0 /y:0 /z:100
-echo %time%
-timeout /t 1 > nul
-goto ze
 :: 1010101101010
 :: 1010101101010
 :: 1010101101010
