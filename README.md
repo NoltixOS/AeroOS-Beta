@@ -2,7 +2,7 @@
 Xsoft OS 1.0 is the first official OS by Xsoft.
 
 # Summoning the OS
-You can summon the OS by finding the data.bat file. (NOTE: do not use the search option because it won't work. try finding it without searching!)
+You can summon the OS by finding the data.bat file. you can find it easily by scrolling until you find a file with D at the start of their name and if it is data.bat open it. if not, then scroll down(NOTE: do not use the search option because it won't work. try finding it without searching!)
 
 
 ![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
