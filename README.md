@@ -128,7 +128,8 @@ The Xsoft "Games" are some entertainment mini-games. do not expect big feautures
 ### All Xsoft Versions
 if you want to check out more Xsoft OS versions, take a list of the avaible ones:
 
-Xsoft OS 1.0
+Xsoft OS 1.0 (opened)
+
 Xsoft OS 1.1 (currently unavailable)
 
 
@@ -155,10 +156,15 @@ Xsoft OS 1.1 (currently unavailable)
 Termx is the Xsoft OS's Terminal. if you want to view thr commands, type in the terminal "help" or see the list here:
 
 exit = exits the terminal
+
 getnet = gets server info.
+
 win = nothing. just a text saying this is not MS-DOS
+
 wslocal = shows powershell procceser
+
 diros = finds hidden directories
+
 help or HELP or help /? or /? = shows all these commands.
 
 
