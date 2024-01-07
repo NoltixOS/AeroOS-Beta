@@ -13,14 +13,16 @@ After you download, rename the folder to _Xsoft (nu sterge aici nu e nimic pierd
 
 
 ## Index
+- [Apps](apps)
     - [Notex](#notex)
     - [Waves Social](#waves-social)
     - [Games](#games)
+    - [XsoftOS Terminal](#xsoftos-terminal)
+    - [Ai-Chatbot](#ai-chatbot)
+- [Other](other)
     - [Check the system info](#check-system-info)
     - [All Xsoft Versions](#all-xsoft-os-versions)
-    - [XsoftOS Terminal](#xsoftos-terminal)
     - [XsoftOS Help](#xsoftos-help)
-    - [Ai-Chatbot](#ai-chatbot)
     - [Run The Power Options](#run-the-power-options)
     - [Themes](#themes)
     - [Product Keys](#product-keys)
