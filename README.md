@@ -1,6 +1,10 @@
 # Xsoft OS 1.0
 Xsoft OS 1.0 is the first official OS by Xsoft.
 
+# Summoning the OS
+You can summon the OS by finding the data.bat file. (NOTE: do not use the search option because it won't work. try finding it without searching!)
+
+
 ![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![Version](https://img.shields.io/badge/Version-1.09b-9cf?style=for-the-badge)
 
@@ -13,13 +17,13 @@ After you download, rename the folder to _Xsoft (nu sterge aici nu e nimic pierd
     - [Waves Social](#waves-social)
     - [Games](#games)
     - [Check the system info](#check-system-info)
-    - [More Xsoft OS Versions](#all-xsoft-versions)
-    - [Termx](#xsoftos-terminal)
-    - [Help](#xsoftos-help)
-    - [Xalb AI](#ai-chatbot)
-    - [Power Options](#run-the-power-options)
+    - [All Xsoft Versions](#all-xsoft-os-versions)
+    - [XsoftOS Terminal](#xsoftos-terminal)
+    - [XsoftOS Help](#xsoftos-help)
+    - [Ai-Chatbot](#ai-chatbot)
+    - [Run The Power Options](#run-the-power-options)
     - [Themes](#themes)
-    - [Xsoft Activation Keys](#product-keys)
+    - [Product Keys](#product-keys)
 
 
 
