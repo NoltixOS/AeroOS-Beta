@@ -17,7 +17,7 @@ After you download, rename the folder to _Xsoft (nu sterge aici nu e nimic pierd
     - [Notex](#notex)
     - [Waves Social](#waves-social)
     - [Games](#games)
-    - [XsoftOS Terminal](#xsoftos-terminal)
+    - [Termx](#xsoftos-terminal)
     - [Ai-Chatbot](#ai-chatbot)
 - [Other](other)
     - [Check the system info](#check-system-info)
@@ -29,6 +29,40 @@ After you download, rename the folder to _Xsoft (nu sterge aici nu e nimic pierd
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
 
 
 
