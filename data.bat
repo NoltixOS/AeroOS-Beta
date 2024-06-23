@@ -149,7 +149,7 @@ cls
 if exist osk.ID del osk.ID
 insertbmp /p:"ram.bmp" /x:0 /y:0 /z:100
 set /p k=:::::/
-if %k% == X GOTO nose
+if %k% == X goto log
 if %k% == XXX-XXX-XXX-XXX goto log
 if %k% == 172-890-112-736 goto log
 goto enter
