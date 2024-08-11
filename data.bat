@@ -2,6 +2,9 @@
 cls
 mode 1000
 mode 1000
+echo Xsoft OS Loading...
+dir
+echo XeY76
 batbox /h 1
 :checksys
 color 7
