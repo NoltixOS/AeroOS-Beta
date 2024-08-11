@@ -327,31 +327,29 @@ echo.
 echo.
 echo.     
 echo.        
-SET /P "m=C/>"
-if %m% == 1 goto writ
-if %m% == 2 start dos.bat
-if %m% == 3 goto akula
-if %m% == 4 start tetris.cmd
-if %m% == 5 start Mc.py
-if %m% == 6 start chat
-if %m% == 7 goto nya
-if %m% == 8 goto find
-if %m% == 9 goto ka
-if %m% == 10 start cla.py
-if %m% == 11 start bot
-if %m% == 12 start maryo.bat
-if %m% == 13 start a
-if %m% == 14 start b
-if %m% == 15 goto aha
-if %m% == 16 goto in
-if %m% == 17 goto wsfc
-if %m% == X goto exes
-if %m% == V goto v
-if %m% == N goto netU
+cmdMenuSel f870 "                                                                                               XSOFT OS" "                                                                                               DOS" "                                                                                               BIOS" "                                                                                               TROUBLESHOOTING
+if %ERRORLEVEL% == 2 goto writ                  NoteX" "
+if %ERRORLEVEL% == 3 start dos.bat              Command Executor" "
+if %ERRORLEVEL% == 4 goto akula                 VSX Code" "
+if %ERRORLEVEL% == 5 start tetris.cmd           Tetris" "
+if %ERRORLEVEL% == 6 start Mc.py                Minecraft Python Edition" "
+if %ERRORLEVEL% == 7 start chat                 AI Chat" "
+if %ERRORLEVEL% == 8 goto nya                   Nyan Cat" "
+if %ERRORLEVEL% == 9 goto find                  Files" "
+if %ERRORLEVEL% == 10 goto kla                  Test" "
+if %ERRORLEVEL% == 11 start bot                 XalbAI" "
+if %ERRORLEVEL% == 12 start maryo.bat           Mario" "
+if %ERRORLEVEL% == 13 start a                   UnknownTitle1" "
+if %ERRORLEVEL% == 14 start b                   UnknownTitle2" "
+if %ERRORLEVEL% == 15 goto aha                  InternalSViewer" "
+if %ERRORLEVEL% == 16 goto inexalah             UnknownTitle3" "
+if %ERRORLEVEL% == 17 goto wsfc                 PurpleTube" "
+if %ERRORLEVEL% == X goto exes                  xRegit" "
+if %ERRORLEVEL% == V goto v                     Volume" "
 goto desktop
 
 :wsfc
-start https://weevs.yooco.org/forum/index.html
+start http://zabricks.yooco.org
 goto desktop
 
 :aha
@@ -384,21 +382,7 @@ if %ERRORLEVEL% == 1 start volmp & goto desktop
 if %ERRORLEVEL% == 2 start volmn & goto desktop
 
 :exes
-CLS
-insertbmp /p:"start.bmp" /x:0 /y:0 /z:100
-set /p xr=
-if %xr% == 1 goto vernt
-if %xr% == 2 start copra.bat
-if %xr% == 3 start MediaX.EXE
-if %xr% == 4 goto pp
-if %xr% == 5 start PONG.bat
-if %xr% == 6 start gm.py
-if %xr% == 7 goto gtk
-if %xr% == 8 start dg.py
-if %xr% == 9 start fps
-if %xr% == 10 start dipaint.py
-if %xr% == 11 start poke.bat
-if %xr% == 12 goto stel
+start robloxiflifelol.vbs
 
 :stel
 cls
