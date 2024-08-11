@@ -1,5 +1,6 @@
 @echo off
 cls
+cd Xsoft (nu sterge aici nu e nimic pierdut.)
 mode 1000
 mode 1000
 echo Xsoft OS Loading...
