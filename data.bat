@@ -3,9 +3,13 @@ cls
 cd Xsoft (nu sterge aici nu e nimic pierdut.)
 mode 1000
 mode 1000
-echo Xsoft OS Loading...
-dir
-echo XeY76
+echo _
+timeout 1
+echo
+timeout 1
+echo _ 
+timeout 1
+echo _
 batbox /h 1
 :checksys
 color 7
